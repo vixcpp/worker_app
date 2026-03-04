@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    {
+      "commit": "e824328f1835aa0a0af7ee988018a3cb5696dbcb",
+      "id": "vix/app",
+      "repo": "https://github.com/vixcpp/app",
+      "tag": "v0.1.0",
+      "version": "0.1.0"
+    }
+  ],
+  "lockVersion": 1
+}

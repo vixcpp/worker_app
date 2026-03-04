@@ -1,0 +1,32 @@
+{
+  "name": "worker_app",
+  "namespace": "vix",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Background worker kit built on top of vix/app for jobs, queues, retries, and scheduled tasks.",
+  "keywords": [
+    "cpp",
+    "vix",
+    "worker",
+    "jobs",
+    "queue",
+    "background",
+    "tasks",
+    "retry"
+  ],
+  "repository": "https://github.com/vixcpp/worker_app",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ],
+  "deps": [
+    {
+      "id": "vix/app",
+      "version": "0.1.0"
+    }
+  ]
+}
